@@ -1,4 +1,4 @@
-var name = valuer clientInfo =  {
+var clientInfo =  {
   userAgent: navigator.userAgent,
   platform: navigator.platform,
   language: navigator.language,
